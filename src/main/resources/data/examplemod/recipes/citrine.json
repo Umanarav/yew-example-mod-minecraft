@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "examplemod:raw_citrine"
+    },
+    "result": "examplemod:citrine",
+    "experience": 1.0,
+    "cookingtime": 100
+}

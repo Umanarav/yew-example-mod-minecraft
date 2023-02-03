@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cactus",
+            "count": 2
+        }
+    ],
+    "result": {
+        "item": "minecraft:leather",
+        "count": 1
+    }
+} 
