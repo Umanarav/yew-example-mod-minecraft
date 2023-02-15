@@ -2,5 +2,26 @@
     "item.examplemod.citrine": "Citrine",
     "item.examplemod.raw_citrine": "Raw Citrine",
 
-    "itemgroup.citrine": "Citrine Item Group"
+    "item.examplemod.anarchy_reigns_music_disc": "Music Disc",
+    "item.examplemod.anarchy_reigns_music_disc.desc": "Paradise Tree: Anarchy Reigns",
+    "item.examplemod.weed_music_disc": "Music Disc",
+    "item.examplemod.weed_music_disc.desc": "Paradise Tree: I Love You Like a Love Song & Barbie Girl Mashup",
+
+    "item.examplemod.hash": "Hash",
+    "item.examplemod.marijuana": "Marijuana",
+
+    "item.examplemod.joint_roach": "Joint Roach",
+    "item.examplemod.bong": "Glass Bong",
+    "item.examplemod.joint": "Joint",
+
+    "block.examplemod.marijuana_block": "Marijuana Bale",
+    "block.examplemod.hash_block": "Block of Hash",
+    "block.examplemod.rainbow_carpet_block": "Rainbow Carpet",
+
+    "itemgroup.citrine": "Weed Item Group",
+
+    "examplemod.joint_smoke": "Joint burning",
+    "examplemod.bong_smoke": "Bong Rip :)"
+
+
 }

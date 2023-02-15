@@ -1,8 +1,11 @@
 package net.fabricmc.example;
 
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.example.block.ModBlocks;
 import net.fabricmc.example.item.ModItemGroup;
 import net.fabricmc.example.item.ModItems;
+import net.fabricmc.example.sound.ModSounds;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,7 +17,6 @@ public class ExampleMod implements ModInitializer {
 	public static final String MOD_ID = "examplemod";
 	public static final Logger LOGGER = LoggerFactory.getLogger("examplemod");
 
-
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
@@ -22,7 +24,9 @@ public class ExampleMod implements ModInitializer {
 		// Proceed with mild caution.
 		ModItemGroup.registerItemGroups();
 		ModItems.registerModItems();
-
+		ModBlocks.registerModBlocks();
+		ModSounds.registerModSounds();
+	
 		LOGGER.info("Hello Fabric world!");
 
 	}

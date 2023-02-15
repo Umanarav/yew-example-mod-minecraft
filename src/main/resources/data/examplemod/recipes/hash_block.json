@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "HHH",
+      "HHH",
+      "HHH"
+    ],
+    "key": {
+      "H": {
+        "item": "examplemod:hash"
+      }
+    },
+    "result": {
+      "item": "examplemod:hash_block",
+      "count": 1
+    },
+    "group": "Weed"
+  }

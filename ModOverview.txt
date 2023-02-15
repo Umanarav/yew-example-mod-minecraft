@@ -1,0 +1,48 @@
+Implemented Features
+    Items
+        -Glass Bong
+        -Joint
+        -Joint Roach
+        -Marijuana
+    Blocks
+        -Marijuana Block
+    Recipes
+        -Glass make Glass Bong
+        -Paper and Marijuana make Joint
+        -3 Joint Roaches make a Joint
+        -9 Marijuana make a marijuana Block, and vice versa
+    Sounds
+        -Bong_Smoke
+        -Joint_Smoke
+    Enchanting
+        -Bong
+        -Joint
+    Furnace
+        -Weed smeltable into hash
+        -Weed and Hash can be used as fuel in their item, and block forms
+    Music Discs
+        -Meme
+        -Anarchy
+
+To do
+    items
+        -create blunt item
+        -dab rig item
+
+    blocks
+        -create placeable blocks for Glass bongs, as well as dab rig
+
+    crops
+        -create weed crop
+        -create hemp crop
+
+    Armor
+        -create hemp armor
+        -create hash armor
+
+    monotonous tasks
+        -Create all glass bong color variants
+        -ore bongs as well?
+    
+    EFFECTS
+        -assing positive effects to smoking weed.

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "MMM",
+      "MMM",
+      "MMM"
+    ],
+    "key": {
+      "M": {
+        "item": "examplemod:marijuana"
+      }
+    },
+    "result": {
+      "item": "examplemod:marijuana_block",
+      "count": 1
+    },
+    "group": "Weed"
+  }

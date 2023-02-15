@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:grass"
+        }
+    ],
+    "result": {
+        "item": "examplemod:joint",
+        "count": 1
+    },
+    "group": "Weed"
+}
