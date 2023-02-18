@@ -1,0 +1,93 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_pickaxe": {
+    "criteria": {
+      "got_hash": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_armor": {
+    "criteria": {
+      "requirement": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:hash": {
+    "criteria": {
+      "got_hash": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "marijuana_collected": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 20:39:09 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-02-17 20:39:07 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

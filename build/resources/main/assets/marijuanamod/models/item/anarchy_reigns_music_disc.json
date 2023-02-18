@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "marijuanamod:item/anarchy_reigns_music_disc"
+    }
+}

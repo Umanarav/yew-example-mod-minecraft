@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "marijuanamod:hash"
+    },
+      "title": "Sticky Situation",
+      "description": "You got Hash!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "marijuanamod:marijuana",
+    "criteria": {
+      "got_hash": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "marijuanamod:hash_tag"
+            }
+          ]
+        }
+      }
+    }     
+  }

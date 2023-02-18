@@ -1,0 +1,15 @@
+{
+  "examplemod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-17 14:29:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 14:29:52 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

@@ -1,0 +1,20 @@
+{
+    "parent": "marijuanamod:marijuana",
+    "display": {
+      "icon": {
+        "item": "marijuanamod:marijuana_seeds"
+      },
+      "title": "Green Thumb",
+      "description": "You've planted some marijuana seeds!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },"criteria": {
+      "planted_marijuana_seeds": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block": "marijuanamod:marijuana_crop"
+        }
+      }
+    }
+  }

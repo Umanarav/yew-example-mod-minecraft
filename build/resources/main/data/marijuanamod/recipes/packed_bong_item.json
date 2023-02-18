@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "marijuanamod:unpacked_bong"
+      },
+      {
+          "item": "marijuanamod:marijuana"
+      }
+  ],
+  "result": {
+      "item": "marijuanamod:bong",
+      "count": 1
+  },
+  "group": "Weed"
+}

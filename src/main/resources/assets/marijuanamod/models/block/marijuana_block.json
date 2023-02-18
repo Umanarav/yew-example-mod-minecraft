@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "marijuanamod:block/marijuana_block",
+        "up": "marijuanamod:block/marijuana_block_top",
+        "down": "marijuanamod:block/marijuana_block_top",
+        "north": "marijuanamod:block/marijuana_block_side",
+        "east": "marijuanamod:block/marijuana_block_side",
+        "south": "marijuanamod:block/marijuana_block_side",
+        "west": "marijuanamod:block/marijuana_block_side"
+    }
+}

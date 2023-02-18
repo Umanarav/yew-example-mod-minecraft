@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-02-17 18:10:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-02-17 18:10:32 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "marijuana_collected": "2023-02-17 18:10:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 18:10:28 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-02-17 18:10:32 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

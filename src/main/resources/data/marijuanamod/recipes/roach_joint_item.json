@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "marijuanamod:joint_roach"
+        },
+        {
+            "item": "marijuanamod:joint_roach"
+        },
+        {
+            "item": "marijuanamod:joint_roach"
+        }
+    ],
+    "result": {
+        "item": "marijuanamod:joint",
+        "count": 1
+    },
+    "group": "Weed"
+}

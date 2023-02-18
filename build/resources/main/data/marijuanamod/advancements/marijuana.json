@@ -1,0 +1,37 @@
+{
+    "display": {
+      "icon": {
+        "item": "marijuanamod:marijuana"
+      },
+      "title": "Marijuana Gatherer",
+      "description": "You picked up some marijuana!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "background": "marijuanamod:textures/item/marijuana.png"
+    },"criteria": {
+      "marijuana_collected": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "player": [],
+          "items": [
+            {
+              "tag": "marijuanamod:marijuana_tag"
+            }
+          ]
+        }
+      }
+    },"rewards": {
+      "recipes": [
+        "marijuanamod:marijuana_helmet_item",
+        "marijuanamod:marijuana_chestplate_item",
+        "marijuanamod:marijuana_leggings_item",
+        "marijuanamod:marijuana_boots_item",
+        "marijuanamod:marijuana_block_item",
+        "marijuanamod:joint_item",
+        "marijuanamod:hash_item",
+        "marijuanamod:packed_bong_item",
+        "marijuanamod:unpacked_bong_item"
+      ]
+    }
+  }

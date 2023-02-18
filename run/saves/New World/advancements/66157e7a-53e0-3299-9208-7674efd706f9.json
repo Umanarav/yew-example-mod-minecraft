@@ -1,0 +1,27 @@
+{
+  "examplemod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-16 20:17:54 -0600"
+    },
+    "done": true
+  },
+  "examplemod:marijuana_armor": {
+    "criteria": {
+      "requirement": "2023-02-16 20:17:54 -0600"
+    },
+    "done": true
+  },
+  "examplemod:hash": {
+    "criteria": {
+      "got_hash": "2023-02-16 20:17:54 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-16 20:17:56 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

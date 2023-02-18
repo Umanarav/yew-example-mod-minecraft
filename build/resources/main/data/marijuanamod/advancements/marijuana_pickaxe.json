@@ -1,0 +1,25 @@
+{
+    "display": {
+      "icon": {
+        "item": "marijuanamod:marijuana_pickaxe"
+      },
+      "title": "Stoned Age",
+      "description": "Construct an even better pickaxe",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "marijuanamod:marijuana",
+    "criteria": {
+      "got_hash": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "marijuanamod:marijuana_pickaxe_tag"
+            }
+          ]
+        }
+      }
+    }
+  }

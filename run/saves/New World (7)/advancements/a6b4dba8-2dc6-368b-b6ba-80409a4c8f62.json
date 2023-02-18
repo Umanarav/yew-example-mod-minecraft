@@ -1,0 +1,21 @@
+{
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-17 16:48:58 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_pickaxe": {
+    "criteria": {
+      "got_hash": "2023-02-17 16:48:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 16:48:59 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

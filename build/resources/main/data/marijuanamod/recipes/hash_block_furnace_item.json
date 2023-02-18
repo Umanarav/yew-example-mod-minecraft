@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+      "item": "marijuanamod:marijuana_block"
+    },
+    "result": "marijuanamod:hash_block",
+    "experience": 6.5,
+    "cookingtime": 1650
+  }

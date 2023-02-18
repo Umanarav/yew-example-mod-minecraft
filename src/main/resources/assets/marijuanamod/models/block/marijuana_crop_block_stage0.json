@@ -1,0 +1,21 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+      "cross": "marijuanamod:block/marijuana_crop_block_stage0"
+    },
+    "elements": [
+      {
+        "from": [6, 0, 6],
+        "to": [10, 14, 10],
+        "shade": false,
+        "faces": {
+          "up": {"uv": [6, 2, 10, 6], "texture": "#cross", "cullface": "up", "tintindex": 0, "transparency": true},
+          "down": {"uv": [6, 0, 10, 4], "texture": "#cross", "cullface": "down", "tintindex": 0, "transparency": true},
+          "north": {"uv": [6, 4, 10, 14], "texture": "#cross", "cullface": "north", "tintindex": 0, "transparency": true},
+          "south": {"uv": [6, 4, 10, 14], "texture": "#cross", "cullface": "south", "tintindex": 0, "transparency": true},
+          "west": {"uv": [6, 4, 10, 14], "texture": "#cross", "cullface": "west", "tintindex": 0, "transparency": true},
+          "east": {"uv": [6, 4, 10, 14], "texture": "#cross", "cullface": "east", "tintindex": 0, "transparency": true}
+        }
+      }
+    ]
+  }

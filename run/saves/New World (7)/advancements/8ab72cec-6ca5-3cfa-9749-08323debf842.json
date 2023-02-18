@@ -1,0 +1,15 @@
+{
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "marijuana_collected": "2023-02-17 18:09:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 18:09:45 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

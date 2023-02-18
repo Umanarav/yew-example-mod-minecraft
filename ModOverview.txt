@@ -4,8 +4,12 @@ Implemented Features
         -Joint
         -Joint Roach
         -Marijuana
+        -Rainbow Dye
     Blocks
         -Marijuana Block
+        -Rainbow Carpet
+    Crops
+        -Marijuana crop
     Recipes
         -Glass make Glass Bong
         -Paper and Marijuana make Joint
@@ -26,23 +30,16 @@ Implemented Features
 
 To do
     items
-        -create blunt item
-        -dab rig item
-
-    blocks
-        -create placeable blocks for Glass bongs, as well as dab rig
+        -create blunt item?
+        -dab rig item?
 
     crops
-        -create weed crop
-        -create hemp crop
+        -create hemp crop?
 
     Armor
-        -create hemp armor
-        -create hash armor
-
-    monotonous tasks
-        -Create all glass bong color variants
-        -ore bongs as well?
+        -create hash armor?
     
     EFFECTS
-        -assing positive effects to smoking weed.
+        -adding positive effects to smoking weed.
+
+            

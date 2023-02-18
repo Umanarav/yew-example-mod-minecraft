@@ -1,0 +1,11 @@
+{
+    "variants": {
+      "": {
+        "model": "marijuanamod:block/hash_block",
+        "textures": {
+          "top": "marijuanamod:block/hash_block_top",
+          "side": "marijuanamod:block/hash_block_side"
+        }
+      }
+    }
+  }

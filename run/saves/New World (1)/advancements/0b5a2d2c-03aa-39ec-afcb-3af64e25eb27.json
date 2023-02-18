@@ -1,0 +1,27 @@
+{
+  "examplemod:example_mod": {
+    "criteria": {
+      "requirement": "2023-02-16 19:23:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-02-16 19:23:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-02-16 19:23:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-16 19:23:31 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

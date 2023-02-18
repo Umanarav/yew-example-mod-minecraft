@@ -1,0 +1,11 @@
+{
+    "label": "Run Minecraft Client",
+    "type": "shell",
+    "command": "./gradlew runClient",
+    "group": "build",
+    "presentation": {
+        "reveal": "silent",
+        "panel": "dedicated",
+        "showReuseMessage": true
+    }
+}

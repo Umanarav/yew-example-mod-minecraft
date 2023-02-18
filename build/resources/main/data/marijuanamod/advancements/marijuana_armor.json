@@ -1,0 +1,25 @@
+{
+    "display": {
+      "icon": {
+        "item": "marijuanamod:marijuana_material_chestplate"
+      },
+      "title": "Cover Me With Marijuana",
+      "description": "Marijuana Armor Saves Lives!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "marijuanamod:marijuana",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+            "items": [
+            {
+                "tag": "marijuanamod:marijuana_armor_tag"
+            }
+          ]
+        }
+      }
+    }
+  }

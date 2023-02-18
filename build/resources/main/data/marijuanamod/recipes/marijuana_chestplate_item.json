@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "M M",
+      "MMM",
+      "MMM"
+    ],
+    "key": {
+      "M": {
+        "item": "marijuanamod:marijuana"
+      }
+    },
+    "result": {
+      "item": "marijuanamod:marijuana_material_chestplate"
+    }
+  }

@@ -1,0 +1,33 @@
+{
+  "marijuanamod:marijuana_armor": {
+    "criteria": {
+      "requirement": "2023-02-17 14:37:23 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:hash": {
+    "criteria": {
+      "got_hash": "2023-02-17 14:37:23 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-17 14:37:23 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_pickaxe": {
+    "criteria": {
+      "got_hash": "2023-02-17 14:37:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_savanna": "2023-02-17 14:37:25 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

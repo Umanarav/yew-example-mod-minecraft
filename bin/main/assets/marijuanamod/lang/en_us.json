@@ -1,0 +1,42 @@
+{
+    "item.marijuanamod.citrine": "Citrine",
+    "item.marijuanamod.raw_citrine": "Raw Citrine",
+
+    "item.marijuanamod.anarchy_reigns_music_disc": "Music Disc",
+    "item.marijuanamod.anarchy_reigns_music_disc.desc": "Paradise Tree: Anarchy Reigns",
+    "item.marijuanamod.weed_music_disc": "Music Disc",
+    "item.marijuanamod.weed_music_disc.desc": "Paradise Tree: I Love You Like a Love Song & Barbie Girl Mashup",
+
+    "item.marijuanamod.marijuana_seeds": "Marijuana Seeds",
+    "item.marijuanamod.marijuana": "Marijuana",
+    "item.marijuanamod.hash": "Hash",
+    "item.marijuanamod.unpacked_bong": "Glass Bong (Unpacked)",
+    "item.marijuanamod.bong": "Glass Bong (Packed)",
+    "item.marijuanamod.joint": "Joint",
+    "item.marijuanamod.joint_roach": "Joint Roach",
+
+    "block.marijuanamod.marijuana_block": "Marijuana Bale",
+    "block.marijuanamod.hash_block": "Block of Hash",
+    "block.marijuanamod.marijuana_crop_block": "Marijuana Crop",
+
+    "item.marijuanamod.marijuana_sword": "Marijuana Sword",
+    "item.marijuanamod.marijuana_hoe": "Marijuana Hoe",
+    "item.marijuanamod.marijuana_axe": "Marijuana Axe",
+    "item.marijuanamod.marijuana_pickaxe": "Marijuana Pickaxe",
+    "item.marijuanamod.marijuana_shovel": "Marijuana Shovel",
+
+    "item.marijuanamod.marijuana_material_helmet": "Marijuana Helmet",
+    "item.marijuanamod.marijuana_material_chestplate": "Marijuana Chestplate",
+    "item.marijuanamod.marijuana_material_leggings": "Marijuana Leggings",
+    "item.marijuanamod.marijuana_material_boots": "Marijuana Boots",
+
+    "item.marijuanamod.rainbow_dye": "Rainbow Dye",
+    "block.marijuanamod.rainbow_carpet_block": "Rainbow Carpet",
+
+    "itemgroup.citrine": "Marijuana Item Group",
+
+    "marijuanamod.joint_smoke": "Joint burning",
+    "marijuanamod.bong_smoke": "Bong Rip :)"
+
+
+}

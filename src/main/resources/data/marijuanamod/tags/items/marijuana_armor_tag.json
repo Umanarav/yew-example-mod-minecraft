@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "marijuanamod:marijuana_material_boots",
+        "marijuanamod:marijuana_material_leggings",
+        "marijuanamod:marijuana_material_chestplate",
+        "marijuanamod:marijuana_material_helmet"
+    ]
+}

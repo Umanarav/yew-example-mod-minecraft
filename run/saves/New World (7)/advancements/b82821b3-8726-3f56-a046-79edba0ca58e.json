@@ -1,0 +1,21 @@
+{
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "requirement": "2023-02-17 17:17:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-02-17 17:17:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 17:17:05 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

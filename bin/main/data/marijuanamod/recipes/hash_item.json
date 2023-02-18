@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "marijuanamod:hash_block"
+      }
+  ],
+  "result": {
+      "item": "marijuanamod:hash",
+      "count": 9
+  },
+  "group": "Weed"
+}

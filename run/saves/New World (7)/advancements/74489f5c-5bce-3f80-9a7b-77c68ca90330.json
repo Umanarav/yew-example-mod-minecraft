@@ -1,0 +1,21 @@
+{
+  "marijuanamod:marijuana_seeds": {
+    "criteria": {
+      "planted_marijuana_seeds": "2023-02-17 16:47:37 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-17 16:47:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 16:47:28 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-02-17 16:59:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2023-02-17 16:59:14 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_armor": {
+    "criteria": {
+      "marijuana_armor_obtained": "2023-02-17 16:59:14 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana_pickaxe": {
+    "criteria": {
+      "got_pickaxe": "2023-02-17 16:59:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 16:59:16 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

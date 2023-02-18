@@ -1,0 +1,31 @@
+{
+    "joint_smoke": {
+        "subtitle": "marijuanamod.joint_smoke",
+        "sounds": [
+            "marijuanamod:joint_smoke"
+        ]
+    },
+    "bong_smoke": {
+        "subtitle": "marijuanamod.bong_smoke",
+        "sounds": [
+            "marijuanamod:bong_smoke"
+        ]
+    },
+    "weed_music_disc": {
+        "sounds": [
+            {
+                "name": "marijuanamod:weed_music_disc",
+                "stream": true
+            }
+        ]
+    },
+    "anarchy_reigns_music_disc": {
+        "sounds": [
+            {
+                "name": "marijuanamod:anarchy_reigns_music_disc",
+                "stream": true
+            }
+        ]
+    }
+    
+}

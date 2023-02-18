@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "examplemod:block/rainbow_carpet_block"
-    }
-}

@@ -1,0 +1,21 @@
+{
+  "marijuanamod:marijuana_armor": {
+    "criteria": {
+      "requirement": "2023-02-17 16:20:42 -0600"
+    },
+    "done": true
+  },
+  "marijuanamod:marijuana": {
+    "criteria": {
+      "got_marijuana": "2023-02-17 16:20:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-02-17 16:20:44 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

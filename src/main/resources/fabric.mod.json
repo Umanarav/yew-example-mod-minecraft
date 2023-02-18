@@ -1,34 +1,37 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "marijuanamod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "W33D Mod",
+  "description": "Adds Marijuana and paraphernalia to the game.",
   "authors": [
-    "Me!"
+    "Yew!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://iamyew.gay/",
+    "sources": "*"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/MarijuanaMod/marijuana_mod_icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "gay.iamyew.marijuana.MarijuanaMod"
+    ],
+    "client": [
+      "gay.iamyew.marijuana.client.MarijuanaModClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "marijuanamod.mixins.json"
   ],
 
   "depends": {
-    "fabricloader": ">=0.14.11",
-    "fabric-api": "*",
+    "fabricloader": ">=0.14.14",
+    "fabric-api": "=0.73.2+1.19.3",
     "minecraft": "~1.19.3",
     "java": ">=17"
   },
